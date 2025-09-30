@@ -642,7 +642,10 @@ function _0x1d07() {
         'toUpperCas',
         'admin',
         'bEFLM',
-        'pUekm'
+        'pUekm',
+        'eagler',
+        'eaglerclient',
+        'eaglercraft'
     ];
     _0x1d07 = function () {
         return _0x2c1f2;
